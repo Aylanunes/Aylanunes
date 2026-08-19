@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Ayla Cristine
+# ✨ Um pouco sobre mim
+
 
 [![DEV](https://img.shields.io/badge/DEV-Estudante%20de%20Frontend%20%7C%20Backend-8A2BE2?style=for-the-badge&logo=code&logoColor=white )](https://github.com/SEU-USUARIO )
 
