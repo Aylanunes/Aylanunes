@@ -8,7 +8,7 @@
 
 Meu nome é **Ayla Cristine** e sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **3º semestre**.
 
-Tenho interesse em desenvolvimento Full Stack, principalmente nas áreas de Frontend, Backend, APIs e Banco de Dados. Durante a graduação, venho construindo minha base em desenvolvimento de software e aprimorando meus conhecimentos por meio dos estudos.
+Estou aprendendo desenvolvimento Full Stack e tenho interesse em Frontend, Backend, APIs e Banco de Dados. Ainda estou construindo minha experiência, mas gosto de aprender e explorar novas áreas da tecnologia.
 
 ## 🛠️ Linguagens e Tecnologias
 
