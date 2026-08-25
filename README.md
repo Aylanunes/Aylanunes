@@ -7,7 +7,7 @@
 
 ## 💻 Estudante de Desenvolvimento Full Stack
 
-Meu nome é **Ayla Cristine Ferreira Nunes Silva** e sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **3º semestre**.
+Meu nome é **Ayla Cristine** e sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **3º semestre**.
 
 Estou aprendendo desenvolvimento Full Stack e tenho interesse em Frontend, Backend, APIs e Banco de Dados. Ainda estou construindo minha experiência, mas gosto de aprender e explorar novas áreas da tecnologia.
 
